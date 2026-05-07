@@ -7,6 +7,16 @@ cooking and meal planning in one place.
 
 ---
 
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| [`Gathor-Savor_Final Project/`](Gathor-Savor_Final%20Project/) | Full application source code |
+| [`Gather&Savor - Final Presentation.pdf`](Gather%26Savor%20-%20Final%20Presentation.pdf) | Final project presentation slides |
+| [`FinalProject Brainstorming - CSIT377.pdf`](FinalProject%20Brainstorming%20-%20CSIT377.pdf) | Project brainstorming & planning document |
+
+---
+
 ## Features
 
 - User authentication (login and registration)
@@ -72,6 +82,13 @@ does not rely on the root user for database access.
 | Angelee Sullivan-Quintana | [@asq2000](https://github.com/asq2000) |
 | Manahil Imran | [@Manahil2026](https://github.com/Manahil2026) |
 | Jeanine Gomez | [@jea9gmz](https://github.com/jea9gmz) |
+| Anthony D'Alauro | — |
+
+---
+
+## 📚 Course
+
+**CSIT 377 — Web Development**
 
 ---
 
